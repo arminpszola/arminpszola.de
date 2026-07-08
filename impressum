@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Impressum | Dr. Armin Pszola</title>
+
+<style>
+body{
+    margin:0;
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif;
+    background:#f5f7fa;
+    color:#2e2e2e;
+    line-height:1.7;
+}
+
+.container{
+    max-width:850px;
+    margin:60px auto;
+    background:#fff;
+    padding:50px;
+    border-radius:14px;
+    box-shadow:0 8px 30px rgba(0,0,0,.08);
+}
+
+h1{
+    color:#1F355E;
+    margin-top:0;
+}
+
+h2{
+    color:#1F355E;
+    margin-top:40px;
+}
+
+a{
+    color:#1F355E;
+    text-decoration:none;
+}
+
+a:hover{
+    text-decoration:underline;
+}
+
+.notice{
+    color:#b00020;
+    font-weight:bold;
+}
+
+.footer{
+    margin-top:50px;
+    font-size:14px;
+    color:#666;
+}
+
+@media(max-width:700px){
+
+.container{
+    margin:20px;
+    padding:25px;
+}
+
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Impressum</h1>
+
+<h2>Angaben gemäß § 5 DDG (vormals § 5 TMG)</h2>
+
+<p>
+Armin Pszola<br>
+c/o Postflex #7091<br>
+Emsdettener Str. 10<br>
+48268 Greven
+</p>
+
+<p class="notice">
+Keine Pakete oder Päckchen – Annahme wird verweigert!
+</p>
+
+<h2>Kontakt</h2>
+
+<p>
+Telefon:
+<a href="tel:+4917657643688">0176 57643688</a><br>
+
+E-Mail:
+<a href="mailto:support@arminpszola.de">support@arminpszola.de</a>
+</p>
+
+<p>
+Nur für geschäftliche Anfragen.<br>
+Neue Geschäftsanfragen bitte ausschließlich per E-Mail.
+</p>
+
+<h2>Umsatzsteuer-ID</h2>
+
+<p>
+Umsatzsteuer-Identifikationsnummer gemäß § 27a Umsatzsteuergesetz:<br>
+DE358759207
+</p>
+
+<h2>Redaktionell verantwortlich</h2>
+
+<p>
+Armin Pszola<br>
+c/o Postflex #7091<br>
+Emsdettener Str. 10<br>
+48268 Greven
+</p>
+
+<h2>Hinweis zu Inhalten</h2>
+
+<p>
+Die Inhalte dieses Angebots dienen ausschließlich der allgemeinen Finanzbildung und Information. Sie stellen keine Anlageberatung, Steuerberatung oder Empfehlung im Sinne des Wertpapierhandelsgesetzes dar.
+</p>
+
+<p>
+Alle Angaben erfolgen nach bestem Wissen, jedoch ohne Gewähr auf Vollständigkeit oder Aktualität.
+</p>
+
+<h2>Verbraucherstreitbeilegung / Universalschlichtungsstelle</h2>
+
+<p>
+Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+</p>
+
+<div class="footer">
+Stand: Oktober 2025
+</div>
+
+</div>
+
+</body>
+</html>
